@@ -1,0 +1,58 @@
+.product-form-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-form {
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+}
+
+.product-form-list {
+  width: 400px;
+}
+
+.product-form-list-item {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-form-list-item > label {
+  font-weight: 600;
+}
+
+.product-form-input {
+  font-size: 16px;
+  padding: 5px;
+  margin: 5px;
+  min-width: 238px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.product-form-dropdown {
+  font-size: 16px;
+  padding: 5px;
+  margin: 5px;
+  min-width: 250px;
+}
+
+.product-form .primary {
+  background-color: var(--red);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.product-form .primary:disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}

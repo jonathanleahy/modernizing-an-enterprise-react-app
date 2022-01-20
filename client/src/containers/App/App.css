@@ -1,0 +1,9 @@
+.Toastify {
+  position: fixed;
+  z-index: 100;
+}
+
+.app-wrapper {
+  display: grid;
+  grid-template-rows: 70px auto 30px;
+}

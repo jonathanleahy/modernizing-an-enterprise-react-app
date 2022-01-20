@@ -1,0 +1,115 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "Hand Tools"
+    },
+    {
+      "id": 2,
+      "name": "Power Tools"
+    },
+    {
+      "id": 3,
+      "name": "Plumbing"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Purple Hammer",
+      "brand": "Cinncinnati Tools",
+      "description": "This purple hammer hits nails harder than a hammer of any other color.",
+      "retailPrice": 1045,
+      "departmentId": 1
+    },
+    {
+      "id": 2,
+      "name": "Blue Screw Driver",
+      "brand": "DeMalt",
+      "description": "Why stick to safe screwdriver colors like red or grey? Time to ensure you never lose this one in your tool chest.",
+      "retailPrice": 567,
+      "departmentId": 1
+    },
+    {
+      "id": 3,
+      "name": "Yellow Plunger",
+      "brand": "Bubble Scrubbers",
+      "description": "The only plunger you'll ever need, ever again.",
+      "retailPrice": 1499,
+      "departmentId": 3
+    },
+    {
+      "id": 4,
+      "name": "Green Table Saw",
+      "brand": "Don Leere",
+      "description": "You didn't know you needed this table saw until you saw it. Now, you can't live without it.",
+      "retailPrice": 8999,
+      "departmentId": 2
+    },
+    {
+      "id": 5,
+      "name": "Orange Bidet Seat",
+      "brand": "Momo",
+      "description": "Treat the tushy with the respect it deservers. Temperature controls for water at the perfect temp, every time.",
+      "retailPrice": 13599,
+      "departmentId": 3
+    },
+    {
+      "id": 6,
+      "name": "Indigo Nail Gun",
+      "brand": "Cinncinnati Tools",
+      "description": "The only nail gun profesional contractors trust. Those nails won't know what him 'em.",
+      "retailPrice": 4700,
+      "departmentId": 2
+    },
+    {
+      "id": 7,
+      "name": "Light Blue Hand Saw",
+      "brand": "DeMalt",
+      "description": "You'll definitely feel the burn after a few hours of using this to cut 2x4s down to size.",
+      "retailPrice": 2000,
+      "departmentId": 1
+    },
+    {
+      "id": 8,
+      "name": "Tangerine Pipe Wrench",
+      "brand": "Pie-Obi",
+      "description": "A plumber's best friend whether that faucet's got a leak or the toilet won't stop running.",
+      "retailPrice": 2725,
+      "departmentId": 3
+    },
+    {
+      "id": 9,
+      "name": "Lime Green Cordless Power Drill",
+      "brand": "Cinncinnati Tools",
+      "description": "Hours of battery life ensure you'll run out of screws before it runs out of juice.",
+      "retailPrice": 6499,
+      "departmentId": 2
+    },
+    {
+      "id": 10,
+      "name": "Navy Bolt Cutters",
+      "brand": "Don Leere",
+      "description": "Whether you're opening abandoned storage units or breaking into gated warehouses under cover of darkness, these bolt cutters won't let you down.",
+      "retailPrice": 4275,
+      "departmentId": 1
+    },
+    {
+      "id": 11,
+      "name": "Violet Hand-held Orbital Sander",
+      "brand": "Posch",
+      "description": "Watch your fingers. This sander will take the paint off that table in next to no time.",
+      "retailPrice": 7500,
+      "departmentId": 2
+    },
+    {
+      "id": 12,
+      "name": "Red Shop Vac",
+      "brand": "DeMalt",
+      "description": "Good enough for your shop. Great for vaccuming out your car too.",
+      "retailPrice": 10999,
+      "departmentId": 2
+    }
+  ],
+  "checkout": []
+}
